@@ -1,0 +1,4 @@
+pay:1
+hours:3
+limit:40
+stavka:1.5
